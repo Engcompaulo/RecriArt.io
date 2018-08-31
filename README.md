@@ -1,2 +1,2 @@
-# https://github.com/Engcompaulo/RecriArt.io
+# https://engcompaulo.github.io/RecriArt.io/
 RecriArt
